@@ -9,7 +9,7 @@ document.getElementById('schimba-tema').addEventListener('click', function() {
 });
 
 document.getElementById('varsta').addEventListener('click', function() {
-    alert('Varsta mea (Lionel Messi) este de 37 de ani.');
+    alert('Varsta mea (Lionel Messi) este de 36 de ani.');
 });
 
 document.getElementById('detalii').addEventListener('click', function() {
